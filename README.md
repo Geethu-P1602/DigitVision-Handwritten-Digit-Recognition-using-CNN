@@ -45,7 +45,7 @@ Jupyter Notebook
 
 # Project Workflow
 
-The project follows the typical Deep Learning pipeline:
+## The project follows the typical Deep Learning pipeline:
 
 1. Import Libraries
 
